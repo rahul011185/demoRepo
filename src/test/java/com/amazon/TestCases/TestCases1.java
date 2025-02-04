@@ -9,5 +9,10 @@ public class TestCases1 {
         driver=new ChromeDriver();
         driver.get("https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/4.28.1");
     }
+    @Test
+    public void testCase1(){
+        driver=new ChromeDriver();
+        driver.get("https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/4.28.1");
+    }
 
 }
