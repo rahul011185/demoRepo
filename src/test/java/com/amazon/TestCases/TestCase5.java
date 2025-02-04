@@ -1,5 +1,5 @@
 package com.amazon.TestCases;
 
 public class TestCase5 {
-    int a=90;
+    int a=100;
 }
